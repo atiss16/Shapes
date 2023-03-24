@@ -1,5 +1,8 @@
 ﻿namespace Shapes
 {
+    /// <summary>
+    /// Класс треугольника.
+    /// </summary>
     public class Triangle : IShape
     {
         public double X { get; private set; }

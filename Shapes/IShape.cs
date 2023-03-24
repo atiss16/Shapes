@@ -1,5 +1,8 @@
 ﻿namespace Shapes
 {
+    /// <summary>
+    /// Интерфейс фигуры.
+    /// </summary>
     public interface IShape
     {
         /// <summary>

@@ -1,5 +1,8 @@
 ﻿namespace Shapes
 {
+    /// <summary>
+    /// Класс круга.
+    /// </summary>
     public class Circle : IShape
     {
         public double Radius { get; private set; }
